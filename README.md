@@ -3,7 +3,7 @@
  Hall                 : Hall C <br />
  Starting             : Jan 2019  <br />
  Programming Language : Python  <br />
-<br \>
+<br />
 
 Name of the code | Purpose of the code
 ---------------- | -------------------
