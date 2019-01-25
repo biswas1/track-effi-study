@@ -1,5 +1,5 @@
 # Tracking Efficiency Study For the Drift Chamber 
- Lab                  : Jefferson Lab 
- Hall                 : Hall C 
- Starting             : Jan 2019  
- Programming Language : Python 
+ Lab                  : Jefferson Lab <br /> 
+ Hall                 : Hall C <br />
+ Starting             : Jan 2019  <br />
+ Programming Language : Python  <br />
