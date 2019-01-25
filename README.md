@@ -8,3 +8,4 @@
 Name of the code | Purpose of the code
 ---------------- | -------------------
 dc_param_track.py | to make several param files and strore in different names 
+dc_param_track.sh | shell script to produce different root files for different value of a param
